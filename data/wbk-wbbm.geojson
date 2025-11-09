@@ -1,0 +1,7587 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "MS ACEH",
+        "provinsi": "Aceh",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.3102391,
+          5.5452617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "MS BANDA ACEH",
+        "provinsi": "Aceh",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.31919,
+          5.519327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "MS SABANG",
+        "provinsi": "Aceh",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.333267,
+          5.881285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "MS MEUREUDU",
+        "provinsi": "Aceh",
+        "predikat": "WBK",
+        "tahun": 2023,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.24431,
+          5.227059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "MS LHOKSUKON",
+        "provinsi": "Aceh",
+        "predikat": "WBBM",
+        "tahun": 2022,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.309412,
+          5.06724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "MS IDI",
+        "provinsi": "Aceh",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.862109,
+          4.858966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "MS KUALA SIMPANG",
+        "provinsi": "Aceh",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.04293,
+          4.29555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "MS BLANGKAJEREN",
+        "provinsi": "Aceh",
+        "predikat": "WBK",
+        "tahun": 2024,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.329539,
+          3.996068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "MS KUTACANE",
+        "provinsi": "Aceh",
+        "predikat": "WBBM",
+        "tahun": 2022,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.807169,
+          3.480798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "MS SINABANG",
+        "provinsi": "Aceh",
+        "predikat": "WBK",
+        "tahun": 2023,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.375672,
+          2.442738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "MS CALANG",
+        "provinsi": "Aceh",
+        "predikat": "WBBM",
+        "tahun": 2021,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.587521,
+          4.641203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "MS SIMPANG TIGA REDELONG",
+        "provinsi": "Aceh",
+        "predikat": "WBK",
+        "tahun": 2024,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.815499,
+          4.737046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "MS SINGKIL",
+        "provinsi": "Aceh",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.905533,
+          2.310131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "MS TAPAK TUAN",
+        "provinsi": "Aceh",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.164966,
+          3.270956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "MS SIGLI",
+        "provinsi": "Aceh",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.961507,
+          5.368453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "MS BIREUEN",
+        "provinsi": "Aceh",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.66087,
+          5.20568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "MS LHOKSEUMAWE",
+        "provinsi": "Aceh",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.15261,
+          5.13157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "MS TAKENGON",
+        "provinsi": "Aceh",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.809324,
+          4.595859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "MS MEULABOH",
+        "provinsi": "Aceh",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1655834,
+          4.1373292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "MS JANTHO",
+        "provinsi": "Aceh",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.596644,
+          5.298045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "MS LANGSA",
+        "provinsi": "Aceh",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.966185,
+          4.489936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "MS BLANGPIDIE",
+        "provinsi": "Aceh",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.850867,
+          3.742653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "MS SUKA MAKMUE",
+        "provinsi": "Aceh",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.3269947,
+          4.1549872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "MS KOTA SUBULUSSALAM",
+        "provinsi": "Aceh",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.024183,
+          2.627424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PTA MEDAN",
+        "provinsi": "Sumatera Utara",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.644823,
+          3.6152518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA MEDAN",
+        "provinsi": "Sumatera Utara",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.72352,
+          3.532656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BINJAI",
+        "provinsi": "Sumatera Utara",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.485227,
+          3.600187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA KABANJAHE",
+        "provinsi": "Sumatera Utara",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.507778,
+          3.153906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA TANJUNG BALAI",
+        "provinsi": "Sumatera Utara",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.780083,
+          2.95007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA GUNUNG SITOLI",
+        "provinsi": "Sumatera Utara",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.613481,
+          1.282889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SIDIKALANG",
+        "provinsi": "Sumatera Utara",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.317089,
+          2.731612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA TEBING TINGGI",
+        "provinsi": "Sumatera Utara",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.171647,
+          3.338057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA PEMATANG SIANTAR",
+        "provinsi": "Sumatera Utara",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.04323,
+          2.938418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BALIGE",
+        "provinsi": "Sumatera Utara",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.069549,
+          2.298495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SIBOLGA",
+        "provinsi": "Sumatera Utara",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.777995,
+          1.738054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA PADANG SIDEMPUAN",
+        "provinsi": "Sumatera Utara",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.303461,
+          1.335047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA LUBUK PAKAM",
+        "provinsi": "Sumatera Utara",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.869426,
+          3.549487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA KISARAN",
+        "provinsi": "Sumatera Utara",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.61254,
+          2.97467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SIMALUNGUN",
+        "provinsi": "Sumatera Utara",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.090466,
+          2.96681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA PANDAN",
+        "provinsi": "Sumatera Utara",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.822977,
+          1.688733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA RANTAU PRAPAT",
+        "provinsi": "Sumatera Utara",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.843405,
+          2.089931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA STABAT",
+        "provinsi": "Sumatera Utara",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.443334,
+          3.742072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA TARUTUNG",
+        "provinsi": "Sumatera Utara",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.977404,
+          2.022544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA PANYABUNGAN",
+        "provinsi": "Sumatera Utara",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.564343,
+          0.833085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA KOTA PADANG SIDEMPUAN",
+        "provinsi": "Sumatera Utara",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.255893,
+          1.335047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SIBUHUAN",
+        "provinsi": "Sumatera Utara",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.731898,
+          1.053617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SEI RAMPAH",
+        "provinsi": "Sumatera Utara",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.124165,
+          3.493287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PTA PADANG",
+        "provinsi": "Sumatera Barat",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3261865,
+          -0.8110733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA PADANG",
+        "provinsi": "Sumatera Barat",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3987,
+          -0.924638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA PARIAMAN",
+        "provinsi": "Sumatera Barat",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.128094,
+          -0.6416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SOLOK",
+        "provinsi": "Sumatera Barat",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.654264,
+          -0.758069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BATUSANGKAR",
+        "provinsi": "Sumatera Barat",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.594053,
+          -0.459759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA PADANG PANJANG",
+        "provinsi": "Sumatera Barat",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4092968,
+          -0.4652022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA MUARA LABUH",
+        "provinsi": "Sumatera Barat",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.077454,
+          -1.50637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SIJUNJUNG",
+        "provinsi": "Sumatera Barat",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.927312,
+          -0.662728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA KOTO BARU",
+        "provinsi": "Sumatera Barat",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.628553,
+          -0.934727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA PAINAN",
+        "provinsi": "Sumatera Barat",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.578362,
+          -1.349586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA LUBUK SIKAPING",
+        "provinsi": "Sumatera Barat",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.167489,
+          0.135175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA TALU",
+        "provinsi": "Sumatera Barat",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.828636,
+          0.107301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA MANINJAU",
+        "provinsi": "Sumatera Barat",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2714048,
+          -0.2911654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA PAYAKUMBUH",
+        "provinsi": "Sumatera Barat",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.616888,
+          -0.237676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA TANJUNG PATI",
+        "provinsi": "Sumatera Barat",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.670693,
+          -0.151372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA LUBUK BASUNG",
+        "provinsi": "Sumatera Barat",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.978116,
+          -0.265444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SAWAHLUNTO",
+        "provinsi": "Sumatera Barat",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.743823,
+          -0.643975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BUKITTINGGI",
+        "provinsi": "Sumatera Barat",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.367616,
+          -0.283731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA PULAU PUNJUNG",
+        "provinsi": "Sumatera Barat",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.477707,
+          -0.948438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PTA PEKANBARU",
+        "provinsi": "Riau",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4519318,
+          0.4928022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA PEKANBARU",
+        "provinsi": "Riau",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.482025,
+          0.473824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA RENGAT",
+        "provinsi": "Riau",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.436904,
+          -0.388797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA PASIR PANGARAYAN",
+        "provinsi": "Riau",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.304633,
+          0.857339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BENGKALIS",
+        "provinsi": "Riau",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.1330201,
+          1.4873807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SELAT PANJANG",
+        "provinsi": "Riau",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.718746,
+          1.000546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BANGKINANG",
+        "provinsi": "Riau",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.0212351,
+          0.3362851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA TEMBILAHAN",
+        "provinsi": "Riau",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.162964,
+          -0.320515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA DUMAI",
+        "provinsi": "Riau",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.458489,
+          1.668114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA PANGKALAN KERINCI",
+        "provinsi": "Riau",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.087815,
+          0.440597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA UJUNG TANJUNG",
+        "provinsi": "Riau",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.975599,
+          1.607987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SIAK SRI INDRAPURA",
+        "provinsi": "Riau",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.023,
+          0.801139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA TELUK KUANTAN",
+        "provinsi": "Riau",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.545706,
+          -0.522896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PTA JAMBI",
+        "provinsi": "Jambi",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6071494,
+          -1.6313287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA JAMBI",
+        "provinsi": "Jambi",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.606372,
+          -1.630626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA MUARA BUNGO",
+        "provinsi": "Jambi",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.108157,
+          -1.514125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA KUALA TUNGKAL",
+        "provinsi": "Jambi",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4350437,
+          -0.8419967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BANGKO",
+        "provinsi": "Jambi",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.274465,
+          -2.059329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SUNGAI PENUH",
+        "provinsi": "Jambi",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.404192,
+          -2.074493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA MUARA BULIAN",
+        "provinsi": "Jambi",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.24595,
+          -1.720473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SAROLANGUN",
+        "provinsi": "Jambi",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.735923,
+          -2.315246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA MUARA SABAK",
+        "provinsi": "Jambi",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.794047,
+          -1.217164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA MUARA TEBO",
+        "provinsi": "Jambi",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.455099,
+          -1.480372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SENGETI",
+        "provinsi": "Jambi",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5598263,
+          -1.5781366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PTA PALEMBANG",
+        "provinsi": "Sumatera Selatan",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.745603,
+          -2.9657752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA PALEMBANG",
+        "provinsi": "Sumatera Selatan",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.774404,
+          -3.021271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA LAHAT",
+        "provinsi": "Sumatera Selatan",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.549949,
+          -3.779435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA KAYU AGUNG",
+        "provinsi": "Sumatera Selatan",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.825743,
+          -3.405781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA LUBUK LINGGAU",
+        "provinsi": "Sumatera Selatan",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.88938,
+          -3.28395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SEKAYU",
+        "provinsi": "Sumatera Selatan",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.849574,
+          -2.895703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BATURAJA",
+        "provinsi": "Sumatera Selatan",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.197953,
+          -4.166329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA MUARA ENIM",
+        "provinsi": "Sumatera Selatan",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7592122,
+          -3.6292471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA PANGKALAN BALAI",
+        "provinsi": "Sumatera Selatan",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.643629,
+          -2.913901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA MARTAPURA",
+        "provinsi": "Sumatera Selatan",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.347695,
+          -4.315452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA MUARADUA",
+        "provinsi": "Sumatera Selatan",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0648232,
+          -4.5334585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA PAGAR ALAM",
+        "provinsi": "Sumatera Selatan",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.199048,
+          -4.042749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA PRABUMULIH",
+        "provinsi": "Sumatera Selatan",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.201044,
+          -3.445422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PTA BANGKA BELITUNG",
+        "provinsi": "Bangka Belitung",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.9939201,
+          -2.0252914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA PANGKAL PINANG",
+        "provinsi": "Bangka Belitung",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.109988,
+          -2.12731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SUNGAILIAT",
+        "provinsi": "Bangka Belitung",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.10337,
+          -1.891355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA TANJUNG PANDAN",
+        "provinsi": "Bangka Belitung",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6533493,
+          -2.7573136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA MENTOK",
+        "provinsi": "Bangka Belitung",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.204293,
+          -2.055441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PTA BENGKULU",
+        "provinsi": "Bengkulu",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.3105519,
+          -3.8473075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BENGKULU",
+        "provinsi": "Bengkulu",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.267392,
+          -3.79528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA ARGA MAKMUR",
+        "provinsi": "Bengkulu",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.1958298,
+          -3.4392806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA MANNA",
+        "provinsi": "Bengkulu",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.877531,
+          -4.418545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA CURUP",
+        "provinsi": "Bengkulu",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.52799,
+          -3.47901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA LEBONG",
+        "provinsi": "Bengkulu",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.182853,
+          -3.1536977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA MUKOMUKO",
+        "provinsi": "Bengkulu",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.098173,
+          -2.551236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BINTUHAN",
+        "provinsi": "Bengkulu",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.330146,
+          -4.7612621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA TAIS",
+        "provinsi": "Bengkulu",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.56673,
+          -4.0832362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA KEPAHIANG",
+        "provinsi": "Bengkulu",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.593493,
+          -3.649964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PTA BANDAR LAMPUNG",
+        "provinsi": "Lampung",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2518076,
+          -5.4385137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA TANJUNG KARANG",
+        "provinsi": "Lampung",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.249957,
+          -5.375082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA METRO",
+        "provinsi": "Lampung",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.321107,
+          -5.136555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA KRUI",
+        "provinsi": "Lampung",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0589361,
+          -5.018031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA KOTABUMI",
+        "provinsi": "Lampung",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.911737,
+          -4.849041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA KALIANDA",
+        "provinsi": "Lampung",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.5872,
+          -5.714882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA TULANG BAWANG",
+        "provinsi": "Lampung",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.309591,
+          -4.539614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA TANGGAMUS",
+        "provinsi": "Lampung",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.68627,
+          -5.481108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BLAMBANGAN UMPU",
+        "provinsi": "Lampung",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.509637,
+          -4.541864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA GUNUNG SUGIH Kelas IB",
+        "provinsi": "Lampung",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.216365,
+          -4.966728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA GEDONG TATAAN",
+        "provinsi": "Lampung",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.262544,
+          -5.419468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA PRINGSEWU",
+        "provinsi": "Lampung",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.983095,
+          -5.359835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA MESUJI",
+        "provinsi": "Lampung",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.338841,
+          -3.987658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA TULANG BAWANG TENGAH",
+        "provinsi": "Lampung",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.089764,
+          -4.518658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SUKADANA",
+        "provinsi": "Lampung",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.535954,
+          -5.018286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PTA JAKARTA",
+        "provinsi": "DKI Jakarta",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9209603,
+          -6.232592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA JAKARTA PUSAT",
+        "provinsi": "DKI Jakarta",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.871169,
+          -6.186409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA JAKARTA BARAT",
+        "provinsi": "DKI Jakarta",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7527957,
+          -6.1851264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA JAKARTA TIMUR",
+        "provinsi": "DKI Jakarta",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.877665,
+          -6.339866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA JAKARTA SELATAN",
+        "provinsi": "DKI Jakarta",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.821145,
+          -6.2993743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA JAKARTA UTARA",
+        "provinsi": "DKI Jakarta",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9095013,
+          -6.1294154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PTA BANDUNG",
+        "provinsi": "Jawa Barat",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.690094,
+          -6.93749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BANDUNG",
+        "provinsi": "Jawa Barat",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.656519,
+          -6.912873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA INDRAMAYU",
+        "provinsi": "Jawa Barat",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.318656,
+          -6.331723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA MAJALENGKA",
+        "provinsi": "Jawa Barat",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.23871,
+          -6.837262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SUMBER",
+        "provinsi": "Jawa Barat",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.48031,
+          -6.76385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA CIAMIS",
+        "provinsi": "Jawa Barat",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.363996,
+          -7.327331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA TASIKMALAYA",
+        "provinsi": "Jawa Barat",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.112788,
+          -7.357184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA KARAWANG",
+        "provinsi": "Jawa Barat",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.2956563,
+          -6.2955793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SUBANG",
+        "provinsi": "Jawa Barat",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.761891,
+          -6.555241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SUMEDANG",
+        "provinsi": "Jawa Barat",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.91969,
+          -6.831207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BOGOR",
+        "provinsi": "Jawa Barat",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.774875,
+          -6.557065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SUKABUMI",
+        "provinsi": "Jawa Barat",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.919127,
+          -6.925665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA CIANJUR",
+        "provinsi": "Jawa Barat",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.163553,
+          -6.805866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA PURWAKARTA",
+        "provinsi": "Jawa Barat",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.432312,
+          -6.56416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA CIREBON",
+        "provinsi": "Jawa Barat",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.547365,
+          -6.739021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA CIBADAK",
+        "provinsi": "Jawa Barat",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.5558,
+          -6.980228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BEKASI",
+        "provinsi": "Jawa Barat",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.993058,
+          -6.242962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA GARUT",
+        "provinsi": "Jawa Barat",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.892504,
+          -7.190187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA KUNINGAN",
+        "provinsi": "Jawa Barat",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.517866,
+          -6.969738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA CIBINONG",
+        "provinsi": "Jawa Barat",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82377,
+          -6.475251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA CIKARANG",
+        "provinsi": "Jawa Barat",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.171115,
+          -6.366143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA DEPOK",
+        "provinsi": "Jawa Barat",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.826986,
+          -6.423459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA KOTA TASIKMALAYA",
+        "provinsi": "Jawa Barat",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.23634,
+          -7.328085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA KOTA BANJAR",
+        "provinsi": "Jawa Barat",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.537894,
+          -7.36969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SOREANG",
+        "provinsi": "Jawa Barat",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.533156,
+          -7.022439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA KOTA CIMAHI",
+        "provinsi": "Jawa Barat",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5448,
+          -6.862181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA NGAMPRAH",
+        "provinsi": "Jawa Barat",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.510175,
+          -6.83962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PTA BANTEN",
+        "provinsi": "Banten",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1509745,
+          -6.1662613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SERANG",
+        "provinsi": "Banten",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.17255,
+          -6.13901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA PANDEGLANG",
+        "provinsi": "Banten",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.099607,
+          -6.318278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA RANGKASBITUNG",
+        "provinsi": "Banten",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.280555,
+          -6.36161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA TANGERANG",
+        "provinsi": "Banten",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.630478,
+          -6.193815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA TIGARAKSA",
+        "provinsi": "Banten",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.484319,
+          -6.276626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA CILEGON",
+        "provinsi": "Banten",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.0475976,
+          -6.0335973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PTA SEMARANG",
+        "provinsi": "Jawa Tengah",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3710523,
+          -6.9854191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SEMARANG",
+        "provinsi": "Jawa Tengah",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.332387,
+          -6.977764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA PURWODADI",
+        "provinsi": "Jawa Tengah",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.910145,
+          -7.100748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BREBES",
+        "provinsi": "Jawa Tengah",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.050107,
+          -6.873241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA CILACAP",
+        "provinsi": "Jawa Tengah",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.033993,
+          -7.696361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BANJARNEGARA",
+        "provinsi": "Jawa Tengah",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.6727,
+          -7.398982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA PEMALANG",
+        "provinsi": "Jawa Tengah",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.385807,
+          -6.908406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA KENDAL",
+        "provinsi": "Jawa Tengah",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.225081,
+          -6.945424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA WONOSOBO",
+        "provinsi": "Jawa Tengah",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.9269733,
+          -7.3697767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA PEKALONGAN",
+        "provinsi": "Jawa Tengah",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.697049,
+          -6.903344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA PATI",
+        "provinsi": "Jawa Tengah",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.031837,
+          -6.750502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA JEPARA",
+        "provinsi": "Jawa Tengah",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.676255,
+          -6.588129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BLORA",
+        "provinsi": "Jawa Tengah",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.453282,
+          -6.971593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA KEBUMEN",
+        "provinsi": "Jawa Tengah",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.668968,
+          -7.676301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA PURWOKERTO",
+        "provinsi": "Jawa Tengah",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.225839,
+          -7.439992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA TEGAL",
+        "provinsi": "Jawa Tengah",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.106933,
+          -6.866107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SALATIGA",
+        "provinsi": "Jawa Tengah",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.512917,
+          -7.364047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA DEMAK",
+        "provinsi": "Jawa Tengah",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.615829,
+          -6.911661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BATANG",
+        "provinsi": "Jawa Tengah",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.729646,
+          -6.912916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA KUDUS",
+        "provinsi": "Jawa Tengah",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.872081,
+          -6.804165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA REMBANG",
+        "provinsi": "Jawa Tengah",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.3536,
+          -6.732145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA TEMANGGUNG",
+        "provinsi": "Jawa Tengah",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.17705,
+          -7.31771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA PURWOREJO",
+        "provinsi": "Jawa Tengah",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.97269,
+          -7.724484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BANYUMAS",
+        "provinsi": "Jawa Tengah",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.294574,
+          -7.507141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA PURBALINGGA",
+        "provinsi": "Jawa Tengah",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.374184,
+          -7.40286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA KLATEN",
+        "provinsi": "Jawa Tengah",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.605753,
+          -7.710505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SRAGEN",
+        "provinsi": "Jawa Tengah",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.00787,
+          -7.427151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BOYOLALI",
+        "provinsi": "Jawa Tengah",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.6004274,
+          -7.5330051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA WONOGIRI",
+        "provinsi": "Jawa Tengah",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.924803,
+          -7.813887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SUKOHARJO",
+        "provinsi": "Jawa Tengah",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.844872,
+          -7.694205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SURAKARTA",
+        "provinsi": "Jawa Tengah",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.815014,
+          -7.58001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA KARANGANYAR",
+        "provinsi": "Jawa Tengah",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.964296,
+          -7.60046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA MUNGKID",
+        "provinsi": "Jawa Tengah",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.220425,
+          -7.592302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA MAGELANG",
+        "provinsi": "Jawa Tengah",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.207269,
+          -7.497595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA AMBARAWA",
+        "provinsi": "Jawa Tengah",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.389392,
+          -7.262338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SLAWI",
+        "provinsi": "Jawa Tengah",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.128021,
+          -6.992096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA KAJEN",
+        "provinsi": "Jawa Tengah",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.590136,
+          -7.026738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PTA SURABAYA",
+        "provinsi": "Jawa Timur",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7104468,
+          -7.2898074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SURABAYA",
+        "provinsi": "Jawa Timur",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.718435,
+          -7.316187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA JEMBER",
+        "provinsi": "Jawa Timur",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.700159,
+          -8.156231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BANYUWANGI",
+        "provinsi": "Jawa Timur",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.36644,
+          -8.224951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA TULUNG AGUNG",
+        "provinsi": "Jawa Timur",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.873034,
+          -8.064906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BLITAR",
+        "provinsi": "Jawa Timur",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.18311,
+          -8.095789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BOJONEGORO",
+        "provinsi": "Jawa Timur",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.874251,
+          -7.149661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA TUBAN",
+        "provinsi": "Jawa Timur",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.045846,
+          -6.893507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA LAMONGAN",
+        "provinsi": "Jawa Timur",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.427374,
+          -7.113697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA KODYA MALANG",
+        "provinsi": "Jawa Timur",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6506984,
+          -7.930255204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA LUMAJANG",
+        "provinsi": "Jawa Timur",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.233502,
+          -8.100705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA KAB. KEDIRI",
+        "provinsi": "Jawa Timur",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.036115,
+          -7.815747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA MOJOKERTO",
+        "provinsi": "Jawa Timur",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.4239,
+          -7.481373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA JOMBANG",
+        "provinsi": "Jawa Timur",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.211427,
+          -7.548442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA GRESIK",
+        "provinsi": "Jawa Timur",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.630037,
+          -7.163107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BONDOWOSO",
+        "provinsi": "Jawa Timur",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.818187,
+          -7.930558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA KODYA KEDIRI",
+        "provinsi": "Jawa Timur",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.025232,
+          -7.845919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA NGANJUK",
+        "provinsi": "Jawa Timur",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.893048,
+          -7.592598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA NGAWI",
+        "provinsi": "Jawa Timur",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.440406,
+          -7.405418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SIDOARJO",
+        "provinsi": "Jawa Timur",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.722618,
+          -7.464164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SITUBONDO",
+        "provinsi": "Jawa Timur",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.999623,
+          -7.70988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA TRENGGALEK",
+        "provinsi": "Jawa Timur",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.704713,
+          -8.058129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA PASURUAN",
+        "provinsi": "Jawa Timur",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.921063,
+          -7.651803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA PROBOLINGGO",
+        "provinsi": "Jawa Timur",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.172775,
+          -7.767463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA KRAKSAAN",
+        "provinsi": "Jawa Timur",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.414264,
+          -7.758742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA MAGETAN",
+        "provinsi": "Jawa Timur",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.368376,
+          -7.631665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA PONOROGO",
+        "provinsi": "Jawa Timur",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.487966,
+          -7.870285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA PACITAN",
+        "provinsi": "Jawa Timur",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.095217,
+          -8.193011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA PAMEKASAN",
+        "provinsi": "Jawa Timur",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.463735,
+          -7.210327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BANGKALAN",
+        "provinsi": "Jawa Timur",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.733552,
+          -7.051095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SAMPANG",
+        "provinsi": "Jawa Timur",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.235798,
+          -7.18322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SUMENEP",
+        "provinsi": "Jawa Timur",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.850382,
+          -7.033434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BANGIL",
+        "provinsi": "Jawa Timur",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.827381,
+          -7.606627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA KAB. MADIUN",
+        "provinsi": "Jawa Timur",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.5397019,
+          -7.5822912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BAWEAN",
+        "provinsi": "Jawa Timur",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.645121,
+          -5.842677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA KANGEAN",
+        "provinsi": "Jawa Timur",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.276141,
+          -6.866667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA KAB. MALANG",
+        "provinsi": "Jawa Timur",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.583808,
+          -8.094011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA KODYA MADIUN",
+        "provinsi": "Jawa Timur",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.516479,
+          -7.604913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PTA YOGYAKARTA",
+        "provinsi": "DI Yogyakarta",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3531828,
+          -7.8281557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA YOGYAKARTA",
+        "provinsi": "DI Yogyakarta",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3723182,
+          -7.7905723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SLEMAN",
+        "provinsi": "DI Yogyakarta",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.355053,
+          -7.714818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BANTUL",
+        "provinsi": "DI Yogyakarta",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.329207,
+          -7.891651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA WONOSARI",
+        "provinsi": "DI Yogyakarta",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.591424,
+          -7.974546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA WATES",
+        "provinsi": "DI Yogyakarta",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.136682,
+          -7.873333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PTA PONTIANAK",
+        "provinsi": "Kalimantan Barat",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.3532253,
+          -0.0631449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA PONTIANAK",
+        "provinsi": "Kalimantan Barat",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.358354,
+          -0.066531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SANGGAU",
+        "provinsi": "Kalimantan Barat",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5143643,
+          0.1542224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA KETAPANG",
+        "provinsi": "Kalimantan Barat",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.9786521,
+          -1.832963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SINTANG",
+        "provinsi": "Kalimantan Barat",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.496803,
+          0.072616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA PUTUSSIBAU",
+        "provinsi": "Kalimantan Barat",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.925282,
+          0.876432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA MEMPAWAH",
+        "provinsi": "Kalimantan Barat",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.951725,
+          0.36688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SAMBAS",
+        "provinsi": "Kalimantan Barat",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.328074,
+          1.357521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BENGKAYANG",
+        "provinsi": "Kalimantan Barat",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.48483,
+          0.817988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SINGKAWANG",
+        "provinsi": "Kalimantan Barat",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.985198,
+          0.922712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA NANGA PINOH",
+        "provinsi": "Kalimantan Barat",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.7491823,
+          -0.3446216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SUNGAI RAYA",
+        "provinsi": "Kalimantan Barat",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.410343,
+          -0.109593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PTA PALANGKARAYA",
+        "provinsi": "Kalimantan Tengah",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.8851373,
+          -2.1818907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA PALANGKARAYA",
+        "provinsi": "Kalimantan Tengah",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.91675,
+          -2.2055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA PANGKALAN BUN",
+        "provinsi": "Kalimantan Tengah",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.6273742,
+          -2.7447873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA MUARATEWEH",
+        "provinsi": "Kalimantan Tengah",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.895767,
+          -0.961797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BUNTOK",
+        "provinsi": "Kalimantan Tengah",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.908746,
+          -1.68589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SAMPIT",
+        "provinsi": "Kalimantan Tengah",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.911351,
+          -2.536509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA KUALAKAPUAS",
+        "provinsi": "Kalimantan Tengah",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.419059,
+          -2.962358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA NANGA BULIK",
+        "provinsi": "Kalimantan Tengah",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.434172,
+          -2.184413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SUKAMARA",
+        "provinsi": "Kalimantan Tengah",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.20332,
+          -2.758911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA KUALA PEMBUANG",
+        "provinsi": "Kalimantan Tengah",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.537378,
+          -3.395012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA KASONGAN",
+        "provinsi": "Kalimantan Tengah",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.378717,
+          -1.919515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA TAMIYANG LAYANG",
+        "provinsi": "Kalimantan Tengah",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.1409549,
+          -2.087833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA PULANG PISAU",
+        "provinsi": "Kalimantan Tengah",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.26573,
+          -2.75674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA KUALA KURUN",
+        "provinsi": "Kalimantan Tengah",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.8719764,
+          -1.10572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PTA BANJARMASIN",
+        "provinsi": "Kalimantan Selatan",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.826358,
+          -3.4920247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BANJARMASIN",
+        "provinsi": "Kalimantan Selatan",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.614372,
+          -3.331096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA AMUNTAI",
+        "provinsi": "Kalimantan Selatan",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.247178,
+          -2.413987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BARABAI",
+        "provinsi": "Kalimantan Selatan",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.387132,
+          -2.578066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA MARABAHAN",
+        "provinsi": "Kalimantan Selatan",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.737654,
+          -2.982948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA KANDANGAN",
+        "provinsi": "Kalimantan Selatan",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.264107,
+          -2.788326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA PELAIHARI",
+        "provinsi": "Kalimantan Selatan",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.779365,
+          -3.800232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA RANTAU",
+        "provinsi": "Kalimantan Selatan",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.155364,
+          -2.932892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA TANJUNG",
+        "provinsi": "Kalimantan Selatan",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.404003,
+          -2.175487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA KOTA BARU",
+        "provinsi": "Kalimantan Selatan",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.165986,
+          -3.304269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA MARTAPURA",
+        "provinsi": "Kalimantan Selatan",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.8502404,
+          -3.4175463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BANJARBARU",
+        "provinsi": "Kalimantan Selatan",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.830218,
+          -3.460016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BATU LICIN",
+        "provinsi": "Kalimantan Selatan",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.969342,
+          -3.483199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA NEGARA",
+        "provinsi": "Kalimantan Selatan",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.1269081,
+          -2.6513567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PTA SAMARINDA",
+        "provinsi": "Kalimantan Timur",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.122999,
+          -0.4854189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SANGATTA",
+        "provinsi": "Kalimantan Timur",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.601216,
+          0.51917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BONTANG",
+        "provinsi": "Kalimantan Timur",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.495262,
+          0.138714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SAMARINDA",
+        "provinsi": "Kalimantan Timur",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.128884,
+          -0.48328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BALIKPAPAN",
+        "provinsi": "Kalimantan Timur",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.890563,
+          -1.247823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA KUTAI/TENGGARONG",
+        "provinsi": "Kalimantan Timur",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.9885995,
+          -0.4433322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA TANAH GROGOT",
+        "provinsi": "Kalimantan Timur",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.190213,
+          -1.903423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA TANJUNG REDEB",
+        "provinsi": "Kalimantan Timur",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.496627,
+          2.151286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA PENAJAM",
+        "provinsi": "Kalimantan Timur",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.740432,
+          -1.301422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SENDAWAR",
+        "provinsi": "Kalimantan Timur",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.803424,
+          -0.231741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PTA MANADO",
+        "provinsi": "Sulawesi Utara",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.8372934,
+          1.4761776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA MANADO",
+        "provinsi": "Sulawesi Utara",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.878226,
+          1.469231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA TAHUNA",
+        "provinsi": "Sulawesi Utara",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.510722,
+          3.602446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA TONDANO",
+        "provinsi": "Sulawesi Utara",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.910258,
+          1.315335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BITUNG",
+        "provinsi": "Sulawesi Utara",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.116708,
+          1.434115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA KOTAMOBAGU",
+        "provinsi": "Sulawesi Utara",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.318578,
+          0.733344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA AMURANG",
+        "provinsi": "Sulawesi Utara",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.611833,
+          1.226528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA LOLAK",
+        "provinsi": "Sulawesi Utara",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.028194,
+          0.88225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BOLAANG UKI",
+        "provinsi": "Sulawesi Utara",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.9832,
+          0.38137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BOROKO",
+        "provinsi": "Sulawesi Utara",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.30606,
+          0.90589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA TUTUYAN",
+        "provinsi": "Sulawesi Utara",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.608667,
+          0.744777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PTA GORONTALO",
+        "provinsi": "Gorontalo",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.0635399,
+          0.5709622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA GORONTALO",
+        "provinsi": "Gorontalo",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.057024,
+          0.558662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA LIMBOTO",
+        "provinsi": "Gorontalo",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.980713,
+          0.632368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA TILAMUTA",
+        "provinsi": "Gorontalo",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.328828,
+          0.524715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA MARISA",
+        "provinsi": "Gorontalo",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.945854,
+          0.458827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SUWAWA",
+        "provinsi": "Gorontalo",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.14418,
+          0.559308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA KWANDANG",
+        "provinsi": "Gorontalo",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.918922,
+          0.826451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PTA PALU",
+        "provinsi": "Sulawesi Tengah",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.8893135,
+          -0.914225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA PALU",
+        "provinsi": "Sulawesi Tengah",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.851597,
+          -0.892765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA POSO",
+        "provinsi": "Sulawesi Tengah",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.756655,
+          -1.394947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA TOLI-TOLI",
+        "provinsi": "Sulawesi Tengah",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.821744,
+          1.043085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA DONGGALA",
+        "provinsi": "Sulawesi Tengah",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.75641,
+          -0.681098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA LUWUK",
+        "provinsi": "Sulawesi Tengah",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.791954,
+          -0.997453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BUOL",
+        "provinsi": "Sulawesi Tengah",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.421046,
+          1.171069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BUNGKU",
+        "provinsi": "Sulawesi Tengah",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.937405,
+          -2.483938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BANGGAI",
+        "provinsi": "Sulawesi Tengah",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.502967,
+          -1.631916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA PARIGI",
+        "provinsi": "Sulawesi Tengah",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1614,
+          -0.7980351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA AMPANA",
+        "provinsi": "Sulawesi Tengah",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.575028,
+          -0.8705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PTA KENDARI",
+        "provinsi": "Sulawesi Tenggara",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.5050389,
+          -4.0085984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA KENDARI",
+        "provinsi": "Sulawesi Tenggara",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.490806,
+          -4.03567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA KOLAKA",
+        "provinsi": "Sulawesi Tenggara",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.627118,
+          -4.073925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA RAHA",
+        "provinsi": "Sulawesi Tenggara",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.721266,
+          -4.831927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BAU-BAU",
+        "provinsi": "Sulawesi Tenggara",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.57819,
+          -5.490547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA UNAAHA",
+        "provinsi": "Sulawesi Tenggara",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.040093,
+          -3.850992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA ANDOOLO",
+        "provinsi": "Sulawesi Tenggara",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.282428,
+          -4.331547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA PASARWAJO",
+        "provinsi": "Sulawesi Tenggara",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.848431,
+          -5.534469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA WANGI WANGI",
+        "provinsi": "Sulawesi Tenggara",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.551444,
+          -5.341861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA LASUSUA",
+        "provinsi": "Sulawesi Tenggara",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.878587,
+          -3.499833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA RUMBIA",
+        "provinsi": "Sulawesi Tenggara",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.045794,
+          -4.770056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PTA MAKASSAR",
+        "provinsi": "Sulawesi Selatan",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.4357223,
+          -5.1464559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA MAKASSAR",
+        "provinsi": "Sulawesi Selatan",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.509227,
+          -5.119008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SENGKANG",
+        "provinsi": "Sulawesi Selatan",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.033272,
+          -4.117488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA WATAMPONE",
+        "provinsi": "Sulawesi Selatan",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.347265,
+          -4.54353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA PANGKAJENE",
+        "provinsi": "Sulawesi Selatan",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.542344,
+          -4.802095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA JENEPONTO",
+        "provinsi": "Sulawesi Selatan",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.759435,
+          -5.673894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA TAKALAR",
+        "provinsi": "Sulawesi Selatan",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.44922,
+          -5.400689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BARRU",
+        "provinsi": "Sulawesi Selatan",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.61684,
+          -4.418664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SUNGGUMINASA",
+        "provinsi": "Sulawesi Selatan",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.453226,
+          -5.198748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BANTAENG",
+        "provinsi": "Sulawesi Selatan",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.965972,
+          -5.553683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SINJAI",
+        "provinsi": "Sulawesi Selatan",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.251431,
+          -5.122289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA PARE-PARE",
+        "provinsi": "Sulawesi Selatan",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.633672,
+          -4.023473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA PINRANG",
+        "provinsi": "Sulawesi Selatan",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.6458463,
+          -3.8084508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA ENREKANG",
+        "provinsi": "Sulawesi Selatan",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.772738,
+          -3.553264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SIDENRENG RAPPANG",
+        "provinsi": "Sulawesi Selatan",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.793926,
+          -3.922496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA MAKALE",
+        "provinsi": "Sulawesi Selatan",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.853272,
+          -3.10716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA MAROS",
+        "provinsi": "Sulawesi Selatan",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.571579,
+          -5.006718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA WATANSOPPENG",
+        "provinsi": "Sulawesi Selatan",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.901057,
+          -4.363486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BULUKUMBA",
+        "provinsi": "Sulawesi Selatan",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.186507,
+          -5.553958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA PALOPO",
+        "provinsi": "Sulawesi Selatan",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.20152,
+          -3.0067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SELAYAR",
+        "provinsi": "Sulawesi Selatan",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.466234,
+          -6.11845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA MASAMBA",
+        "provinsi": "Sulawesi Selatan",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3439875,
+          -2.5482839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BELOPA",
+        "provinsi": "Sulawesi Selatan",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.35978,
+          -3.37911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA MALILI",
+        "provinsi": "Sulawesi Selatan",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.097407,
+          -2.633882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PTA MATARAM",
+        "provinsi": "Nusa Tenggara Barat",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0936933,
+          -8.591697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA TALIWANG",
+        "provinsi": "Nusa Tenggara Barat",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.826687,
+          -8.771226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA MATARAM",
+        "provinsi": "Nusa Tenggara Barat",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0822,
+          -8.576749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SELONG",
+        "provinsi": "Nusa Tenggara Barat",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.528553,
+          -8.652782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BIMA",
+        "provinsi": "Nusa Tenggara Barat",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.745189,
+          -8.462328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA PRAYA",
+        "provinsi": "Nusa Tenggara Barat",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.270926,
+          -8.704962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SUMBAWA BESAR",
+        "provinsi": "Nusa Tenggara Barat",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.404009,
+          -8.477342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA DOMPU",
+        "provinsi": "Nusa Tenggara Barat",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.463805,
+          -8.534617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA GIRI MENANG",
+        "provinsi": "Nusa Tenggara Barat",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.133104,
+          -8.681845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PTA KUPANG",
+        "provinsi": "Nusa Tenggara Timur",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.6209694,
+          -10.1613341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA KUPANG",
+        "provinsi": "Nusa Tenggara Timur",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.623201,
+          -10.161271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA ENDE",
+        "provinsi": "Nusa Tenggara Timur",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6743903,
+          -8.8399191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA RUTENG",
+        "provinsi": "Nusa Tenggara Timur",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.477296,
+          -8.6002938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA WAIKABUBAK",
+        "provinsi": "Nusa Tenggara Timur",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.407179,
+          -9.637479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA WAINGAPU",
+        "provinsi": "Nusa Tenggara Timur",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.255834,
+          -9.658273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA KALABAHI",
+        "provinsi": "Nusa Tenggara Timur",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.57365,
+          -8.207534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA LARANTUKA",
+        "provinsi": "Nusa Tenggara Timur",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.979712,
+          -8.34622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA ATAMBUA",
+        "provinsi": "Nusa Tenggara Timur",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.876296,
+          -9.097881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SOE",
+        "provinsi": "Nusa Tenggara Timur",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.274426,
+          -9.852446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA KEFAMENANU",
+        "provinsi": "Nusa Tenggara Timur",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.475247,
+          -9.458056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BAJAWA",
+        "provinsi": "Nusa Tenggara Timur",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.989206,
+          -8.78426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA MAUMERE",
+        "provinsi": "Nusa Tenggara Timur",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.217954,
+          -8.617831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA LEWO LEBA",
+        "provinsi": "Nusa Tenggara Timur",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.415637,
+          -8.392929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA LABUAN BAJO",
+        "provinsi": "Nusa Tenggara Timur",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.896905,
+          -8.497789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PTA AMBON",
+        "provinsi": "Maluku",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.1954176,
+          -3.6799425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA AMBON",
+        "provinsi": "Maluku",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.2158,
+          -3.67953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA MASOHI",
+        "provinsi": "Maluku",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.955034,
+          -3.302422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA TUAL",
+        "provinsi": "Maluku",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.74024,
+          -5.65256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA DATARAN HUNIPOPU",
+        "provinsi": "Maluku",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.345962,
+          -3.330768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA DATARAN HUNIMOA",
+        "provinsi": "Maluku",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.4915187,
+          -3.1100028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA NAMLEA",
+        "provinsi": "Maluku",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.099113,
+          -3.271237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PTA MALUKU UTARA",
+        "provinsi": "Maluku Utara",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.5711476,
+          0.7405117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA TERNATE",
+        "provinsi": "Maluku Utara",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.377478,
+          0.788111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SOA-SIU",
+        "provinsi": "Maluku Utara",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.44965,
+          0.671165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA LABUHA",
+        "provinsi": "Maluku Utara",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.4809,
+          -0.6249776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA MOROTAI",
+        "provinsi": "Maluku Utara",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.748097,
+          1.779274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PTA JAYAPURA",
+        "provinsi": "Papua",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.6727413,
+          -2.6075887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PTA KEPULAUAN RIAU",
+        "provinsi": "Kepulauan Riau",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4407628,
+          0.928933418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PTA KALIMANTAN UTARA",
+        "provinsi": "Kalimantan Utara",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.3716412,
+          2.864474637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PTA SULAWESI BARAT",
+        "provinsi": "Sulawesi Barat",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.8861199,
+          -2.542825633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PTA BALI",
+        "provinsi": "Bali",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.1568288,
+          -8.674477005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PTA PAPUA BARAT",
+        "provinsi": "Papua Barat",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.0750433,
+          -0.861372891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA TANJUNG PINANG",
+        "provinsi": "Kepulauan Riau",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.448197,
+          0.95698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA DABO SINGKEP",
+        "provinsi": "Kepulauan Riau",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.560106,
+          -0.485738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA TJ. BALAI KARIMUN",
+        "provinsi": "Kepulauan Riau",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.376541,
+          1.031384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA TAREMPA",
+        "provinsi": "Kepulauan Riau",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.210926,
+          3.209479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BATAM",
+        "provinsi": "Kepulauan Riau",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.951502,
+          1.112166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA NATUNA",
+        "provinsi": "Kepulauan Riau",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.364988,
+          3.9320321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA NUNUKAN",
+        "provinsi": "Kalimantan Utara",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.7145,
+          4.08249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA TARAKAN",
+        "provinsi": "Kalimantan Utara",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.621346,
+          3.301415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA TANJUNG SELOR",
+        "provinsi": "Kalimantan Utara",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.38797,
+          2.842508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA MAMUJU",
+        "provinsi": "Sulawesi Barat",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.884865,
+          -2.676313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA POLEWALI",
+        "provinsi": "Sulawesi Barat",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.309776,
+          -3.407765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA MAJENE",
+        "provinsi": "Sulawesi Barat",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.977893,
+          -3.545295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA PASANGKAYU",
+        "provinsi": "Sulawesi Barat",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.359972,
+          -1.174177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA NEGARA",
+        "provinsi": "Bali",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.633649,
+          -8.361041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA DENPASAR",
+        "provinsi": "Bali",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.200768,
+          -8.630098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SINGARAJA",
+        "provinsi": "Bali",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.0889674,
+          -8.1155269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA KARANG ASEM",
+        "provinsi": "Bali",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.612895,
+          -8.433452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA TABANAN",
+        "provinsi": "Bali",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.117488,
+          -8.536191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA KLUNGKUNG",
+        "provinsi": "Bali",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.396833,
+          -8.553781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA GIANYAR",
+        "provinsi": "Bali",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.314699,
+          -8.54685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BANGLI",
+        "provinsi": "Bali",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.352399,
+          -8.476978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BADUNG",
+        "provinsi": "Bali",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.19185,
+          -8.612022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA JAYAPURA",
+        "provinsi": "Papua",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.676028,
+          -2.600576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA WAMENA",
+        "provinsi": "Papua",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.946341,
+          -4.098613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA MERAUKE",
+        "provinsi": "Papua",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.401103,
+          -8.493815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SENTANI",
+        "provinsi": "Papua",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.491554,
+          -2.559388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA BIAK",
+        "provinsi": "Papua",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.091256,
+          -1.173492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SERUI",
+        "provinsi": "Papua",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.238093,
+          -1.87662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA NABIRE",
+        "provinsi": "Papua",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.485517,
+          -3.386224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA MIMIKA",
+        "provinsi": "Papua",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.844784,
+          -4.57457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA PANIAI",
+        "provinsi": "Papua",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.377778,
+          -3.929722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA ARSO",
+        "provinsi": "Papua",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Pelayanan Terpadu Satu Pintu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.758769,
+          -2.869052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA SORONG",
+        "provinsi": "Papua Barat",
+        "predikat": "WBK",
+        "tahun": 2021,
+        "inovasi": "Layanan Digital Terpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.269333,
+          -0.884718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA FAK-FAK",
+        "provinsi": "Papua Barat",
+        "predikat": "WBBM",
+        "tahun": 2024,
+        "inovasi": "Konsultasi Virtual Berbasis Chatbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.293338,
+          -2.928843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA MANOKWARI",
+        "provinsi": "Papua Barat",
+        "predikat": "WBK",
+        "tahun": 2022,
+        "inovasi": "E-Document Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.05849,
+          -0.864513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PA KAIMANA",
+        "provinsi": "Papua Barat",
+        "predikat": "WBBM",
+        "tahun": 2023,
+        "inovasi": "Sidang Online & Akses Disabilitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.714011,
+          -3.661688
+        ]
+      }
+    }
+  ]
+}
