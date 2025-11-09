@@ -9,16 +9,6 @@ A small WebGIS presentation for Peradilan Agama (Religious Court) data. The app 
 - Static assets and icons in the `icon/` folder.
 - Simple backend served by PHP (Dockerfile and `docker-compose.yml` are included).
 
-## Repository structure
-
-- `app.js` — main JavaScript for map interaction (edit to change map logic and layer handling).
-- `index.php` — main entry page.
-- `*.php` — per-page PHP views that load map/data variants.
-- `data/` — GeoJSON, GeoPackage and other spatial data:
-  - `peradilan_agama.geojson`, `peradilan_agama.gpkg`, `kabupaten.geojson`, `batas_kecamatan.geojson`, etc.
-- `icon/` — icons used in the UI.
-- `Dockerfile`, `docker-compose.yml` — containerised environment for quick local deployment.
-
 ## Requirements
 
 - Docker and Docker Compose (recommended) OR
@@ -34,14 +24,6 @@ docker-compose up --build
 ```
 
 2. Open http://localhost:8080 (or the port configured in `docker-compose.yml`).
-
-## Quick start (local PHP server)
-
-From project root, you can run a simple PHP server for testing (if you have PHP installed):
-
-```bash
-php -S 127.0.0.1:8000
-```
 
 Then open http://127.0.0.1:8000 in your browser.
 
@@ -69,7 +51,6 @@ ogr2ogr -f GeoJSON peradilan_agama.geojson peradilan_agama.gpkg
 
 ## License & Contact
 
-- License: (add your preferred license)
-- Author / Contact: (add your name and contact information)
-
+- License: MIT
+- Author / Contact: jenusdy@gmail.com
 
